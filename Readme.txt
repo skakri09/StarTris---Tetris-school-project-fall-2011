@@ -1,3 +1,7 @@
+The text below is in Norwegian as it was when delivered at school in 2011. The project is written in c++ with sdl for input, output and sound.
+
+
+
 Jeg har i stor grad benyttet meg av de minste mulige data typene, men bruker ikke mindre en short for integers så det er mulig å resize spillet 
 til ekstreme dimensjoner for morro-skyld.
 
